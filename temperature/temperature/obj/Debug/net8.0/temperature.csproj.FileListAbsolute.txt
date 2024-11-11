@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\temperature\temperature\bin\Debug\net8.0\temperature.exe
+C:\Users\asus\source\repos\temperature\temperature\bin\Debug\net8.0\temperature.deps.json
+C:\Users\asus\source\repos\temperature\temperature\bin\Debug\net8.0\temperature.runtimeconfig.json
+C:\Users\asus\source\repos\temperature\temperature\bin\Debug\net8.0\temperature.dll
+C:\Users\asus\source\repos\temperature\temperature\bin\Debug\net8.0\temperature.pdb
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.AssemblyInfo.cs
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.dll
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\refint\temperature.dll
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.pdb
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\temperature.genruntimeconfig.cache
+C:\Users\asus\source\repos\temperature\temperature\obj\Debug\net8.0\ref\temperature.dll

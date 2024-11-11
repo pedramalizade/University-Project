@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\net8.0\Even & Odd.exe
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\net8.0\Even & Odd.deps.json
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\net8.0\Even & Odd.runtimeconfig.json
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\net8.0\Even & Odd.dll
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\net8.0\Even & Odd.pdb
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.AssemblyInfo.cs
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.dll
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\refint\Even & Odd.dll
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.pdb
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\Even & Odd.genruntimeconfig.cache
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\net8.0\ref\Even & Odd.dll

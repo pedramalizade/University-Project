@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\Biggest number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503EB0BF-2D35-4D8E-AF0A-69E782EC7766}|Biggest number\\Biggest number.csproj|c:\\users\\asus\\source\\repos\\biggest number\\biggest number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503EB0BF-2D35-4D8E-AF0A-69E782EC7766}|Biggest number\\Biggest number.csproj|solutionrelative:biggest number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Biggest number\\Biggest number\\Program.cs",
+              "RelativeDocumentMoniker": "Biggest number\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Biggest number\\Biggest number\\Program.cs",
+              "RelativeToolTip": "Biggest number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:33:51.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

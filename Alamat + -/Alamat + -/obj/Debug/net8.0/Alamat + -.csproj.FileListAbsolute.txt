@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\bin\Debug\net8.0\Alamat + -.exe
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\bin\Debug\net8.0\Alamat + -.deps.json
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\bin\Debug\net8.0\Alamat + -.runtimeconfig.json
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\bin\Debug\net8.0\Alamat + -.dll
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\bin\Debug\net8.0\Alamat + -.pdb
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.AssemblyInfo.cs
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.dll
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\refint\Alamat + -.dll
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.pdb
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\Alamat + -.genruntimeconfig.cache
+C:\Users\asus\source\repos\Alamat + -\Alamat + -\obj\Debug\net8.0\ref\Alamat + -.dll
